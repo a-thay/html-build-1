@@ -1,0 +1,93 @@
+body {
+  background-color: #333333;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: Tomato;
+}
+
+.First-H1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  color: Tomato;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: DodgerBlue;
+}
+
+.First-H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: DodgerBlue;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: Tomato;
+}
+
+.First-H3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color: DodgerBlue;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  color: Snow;
+}
+
+a {
+  color: Tomato;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.gap-top {
+  margin-top: 20px;
+}
+
+.gap-bottom {
+  margin-bottom: 20px;
+}
+
+.gap-left {
+  margin-left: 20px;
+}
+
+.gap-right {
+  margin-right: 20px;
+}
+
+.bg-dark {
+  background-color: #333333!important;
+}
+
+.navbar-dark {
+  background-color: #333333!important;
+}
+
+.navbar-nav {
+  background-color: #333333!important;
+}
+
+.navbar {
+  background-color: #333333!important;
+}
+
+.breadcrumb {
+  background-color: #333333!important;
+  margin-left: 20px;
+}
